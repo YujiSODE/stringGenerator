@@ -13,7 +13,7 @@ ______
 ## How to use
 This function returns function that loads the Unicode codepoint in decimal, and generates a text of given Unicode characters.  
 ### Methods
-returned function has two methods as follows:
+Returned function has two methods as follows:
 1. `txt()`; it returns a generated text.
 2. `reset([v])`; it resets a generating text; optionally it can reset the text with value v.
 
