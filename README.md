@@ -1,0 +1,2 @@
+# stringGenerator
+A string generator.
